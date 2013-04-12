@@ -1,4 +1,2 @@
-playframework-with-ci
-=====================
+Play framework 2.1.1 with Jenkins
 
-Simple playframework 2.1.1 with Jenkins
